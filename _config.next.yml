@@ -612,7 +612,7 @@ gitalk:
   client_id: 138af235d8b5b41f3b85
   id: location.pathname
   client_secret: 20be5936d8836706079d492933fe93a96eff346f
-  admin_user: [nanachiOwQ]
+  admin_user: nanachiOwQ
   distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
